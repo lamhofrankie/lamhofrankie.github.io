@@ -1,9 +1,276 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T06:46:30.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" version="21.6.6" etag="E-2GiGa-k8fp0qf6sTPm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T03:24:38.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="GFSUFl_5MacJN6pnUMWT" version="21.6.6" type="github">
   <diagram name="第 1 页" id="gUSgpAgR0lHxehvgarFT">
-    <mxGraphModel>
+    <mxGraphModel dx="1056" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4" width="820" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-2" value="logout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="711" width="113" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-5" value="edit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="591" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-6" value="user name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-7" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-8" value="已like的人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="50" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-9" value="blacklist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="110" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-10" value="chatroom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4" y="170" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-23" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-24" value="2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-26" value="3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-27" value="4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-28" value="5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-29" value="6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-30" value="7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-32" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-33" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1080" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-35" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-47" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-49" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-50" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-51" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-53" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-54" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-55" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-56" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-57" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="120" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-59" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="120" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-60" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-61" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-62" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-63" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-65" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-66" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-67" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-68" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-69" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-71" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-72" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="740" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-73" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-74" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-75" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="840" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-77" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="840" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-78" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="980" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-79" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-80" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-81" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-83" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-84" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-85" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-86" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-87" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-102" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="600" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-103" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="740" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-104" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-105" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-106" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="840" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-108" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="840" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-109" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="980" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-110" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-111" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-112" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-113" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="370" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-114" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="370" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-115" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="510" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-116" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-117" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-118" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="600" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-120" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="600" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-121" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="740" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-122" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-123" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-124" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-125" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="840" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-126" value="image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="840" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-127" value="text" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="980" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-128" value="like button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-129" value="blacklist button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3v1gsDtyd8DP3epUa-M1-130" value="chat button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1010" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
